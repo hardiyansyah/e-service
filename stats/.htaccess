@@ -1,0 +1,7 @@
+AuthName "e-service.lipipress.lipi.go.id statistics"
+AuthType Basic
+AuthUserFile /www/hosting/l/li/lipipress/domains/e-service.lipipress.lipi.go.id/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

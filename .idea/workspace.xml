@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e725f11-ec0e-4383-8714-5028067b3f8c" name="Default" comment="" />
+    <ignored path="e-service.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="e-service" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lihat-naskah.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/lihat-naskah.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="237" selection-end-column="38" />
+              <folding>
+                <marker date="1464145290217" expanded="true" signature="37:85" ph="SELECT * FRO... naskah" />
+                <marker date="1464145290217" expanded="true" signature="166:216" ph="SELECT * FRO... users" />
+                <marker date="1464145290217" expanded="true" signature="955:1003" ph="SELECT * FRO... naskah" />
+                <marker date="1464145290217" expanded="true" signature="1124:1174" ph="SELECT * FRO... users" />
+                <marker date="1464145290217" expanded="true" signature="5270:5328" ph="SELECT * FRO... kategori" />
+                <marker date="1464145290217" expanded="true" signature="21328:21414" ph="SELECT * FRO... voting" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pilih-reviewer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/pilih-reviewer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="166" column="151" selection-start-line="166" selection-start-column="151" selection-end-line="166" selection-end-column="151" />
+              <folding>
+                <marker date="1475395952277" expanded="true" signature="444:492" ph="SELECT * FRO... naskah" />
+                <marker date="1475395952277" expanded="true" signature="605:655" ph="SELECT * FRO... users" />
+                <marker date="1475395952277" expanded="true" signature="7898:7955" ph="SELECT * FRO... users" />
+                <marker date="1475395952277" expanded="true" signature="10908:10948" ph="SELECT * FRO... peneliti" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail-reviewer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/detail-reviewer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="34" column="80" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
+              <folding>
+                <element signature="n#ul#0;n#!!top" expanded="false" />
+                <marker date="1475377369219" expanded="true" signature="278:331" ph="SELECT * FRO... users" />
+                <marker date="1475377369219" expanded="true" signature="399:447" ph="SELECT * FRO... naskah" />
+                <marker date="1475377369219" expanded="true" signature="520:570" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aksi.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/aksi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <marker date="1464145290208" expanded="true" signature="558:636" ph="SELECT * FRO... voting" />
+                <marker date="1464145290208" expanded="true" signature="702:850" ph="INSERT INTO voting... " />
+                <marker date="1464145290208" expanded="true" signature="988:1058" ph="UPDATE votin... " />
+                <marker date="1464145290208" expanded="true" signature="1320:1471" ph="INSERT INTO countdown... " />
+                <marker date="1464145290208" expanded="true" signature="1510:1580" ph="UPDATE naska... " />
+                <marker date="1464145290208" expanded="true" signature="1660:1711" ph="SELECT * FRO... naskah" />
+                <marker date="1464145290208" expanded="true" signature="1803:1871" ph="SELECT * FRO... users" />
+                <marker date="1464145290208" expanded="true" signature="2194:2268" ph="SELECT * FRO... users" />
+                <marker date="1464145290208" expanded="true" signature="2687:2729" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modul/modul_dewan/data.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="63" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#label#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <marker date="1475338561010" expanded="true" signature="848:963" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verifikasi.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_naskah/verifikasi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="313" column="0" selection-start-line="313" selection-start-column="2" selection-end-line="325" selection-end-column="7" />
+              <folding>
+                <marker date="1475336369422" expanded="true" signature="8811:8956" ph="INSERT INTO countdown... " />
+                <marker date="1475336369422" expanded="true" signature="8997:10886" ph="INSERT INTO verifikasi... " />
+                <marker date="1475336369422" expanded="true" signature="10966:11065" ph="UPDATE naska... " />
+                <marker date="1475336369422" expanded="true" signature="11146:11222" ph="SELECT * FRO... verifikasi" />
+                <marker date="1475336369422" expanded="true" signature="12151:12195" ph="SELECT * FRO... naskah" />
+                <marker date="1475336369422" expanded="true" signature="12426:12498" ph="SELECT * FRO... users" />
+                <marker date="1475336369422" expanded="true" signature="12894:13121" ph="INSERT INTO pemberitahuan... " />
+                <marker date="1475336369422" expanded="true" signature="13202:13272" ph="SELECT * FRO... users" />
+                <marker date="1475336369422" expanded="true" signature="14046:14147" ph="UPDATE naska... " />
+                <marker date="1475336369422" expanded="true" signature="14230:14306" ph="SELECT * FRO... verifikasi" />
+                <marker date="1475336369422" expanded="true" signature="15235:15279" ph="SELECT * FRO... naskah" />
+                <marker date="1475336369422" expanded="true" signature="15510:15582" ph="SELECT * FRO... users" />
+                <marker date="1475336369422" expanded="true" signature="16005:16232" ph="INSERT INTO pemberitahuan... " />
+                <marker date="1475336369422" expanded="true" signature="16311:16381" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verifikasi-naskah.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_naskah/verifikasi-naskah.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="45" column="199" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="199" />
+              <folding>
+                <marker date="1465112594456" expanded="true" signature="503:546" ph="SELECT * FRO... users" />
+                <marker date="1465112594456" expanded="true" signature="628:678" ph="SELECT * FRO... naskah" />
+                <marker date="1465112594456" expanded="true" signature="764:816" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modul/modul_editor/mod_naskah/detail-naskah.php" />
+        <option value="$PROJECT_DIR$/modul/modul_penulis/mod_permohonan/input.php" />
+        <option value="$PROJECT_DIR$/config/fungsi_mailer.php" />
+        <option value="$PROJECT_DIR$/modul/modul_editor/mod_naskah/verifikasi.php" />
+        <option value="$PROJECT_DIR$/menu/menu_dewan.php" />
+        <option value="$PROJECT_DIR$/modul/modul_dewan/data.php" />
+        <option value="$PROJECT_DIR$/konten.php" />
+        <option value="$PROJECT_DIR$/modul/modul_dewan/mod_naskah/detail-reviewer.php" />
+        <option value="$PROJECT_DIR$/modul/modul_dewan/mod_naskah/pilih-reviewer.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-service" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-service" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-service" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul_editor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-service" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modul_editor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod_naskah" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="e-service">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="e-service">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="config">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\htdocs\me\e-service\config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e725f11-ec0e-4383-8714-5028067b3f8c" name="Default" comment="" />
+      <created>1474673440975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474673440975</updated>
+      <workItem from="1474673442541" duration="1682000" />
+      <workItem from="1474903130088" duration="75000" />
+      <workItem from="1475161343259" duration="1238000" />
+      <workItem from="1475245957791" duration="3573000" />
+      <workItem from="1475283032628" duration="888000" />
+      <workItem from="1475285325911" duration="1004000" />
+      <workItem from="1475290273346" duration="597000" />
+      <workItem from="1475334941157" duration="4016000" />
+      <workItem from="1475370262445" duration="7812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20885000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/lihat-naskah.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="237" selection-end-column="38" />
+          <folding>
+            <marker date="1464145290217" expanded="true" signature="37:85" ph="SELECT * FRO... naskah" />
+            <marker date="1464145290217" expanded="true" signature="166:216" ph="SELECT * FRO... users" />
+            <marker date="1464145290217" expanded="true" signature="955:1003" ph="SELECT * FRO... naskah" />
+            <marker date="1464145290217" expanded="true" signature="1124:1174" ph="SELECT * FRO... users" />
+            <marker date="1464145290217" expanded="true" signature="5270:5328" ph="SELECT * FRO... kategori" />
+            <marker date="1464145290217" expanded="true" signature="21328:21414" ph="SELECT * FRO... voting" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/pilih-reviewer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475395952277" expanded="true" signature="444:492" ph="SELECT * FRO... naskah" />
+            <marker date="1475395952277" expanded="true" signature="605:655" ph="SELECT * FRO... users" />
+            <marker date="1475395952277" expanded="true" signature="7898:7955" ph="SELECT * FRO... users" />
+            <marker date="1475395952277" expanded="true" signature="10908:10948" ph="SELECT * FRO... peneliti" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_dewan/data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="158" selection-start-line="19" selection-start-column="138" selection-end-line="19" selection-end-column="158" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#label#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1475338561010" expanded="true" signature="848:963" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_penulis/mod_permohonan/input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fungsi_mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_penulis/mod_permohonan/input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fungsi_mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_penulis/mod_permohonan/input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fungsi_mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_penulis/mod_permohonan/input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fungsi_mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_naskah/detail-naskah.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_import/form-import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_import/import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_import/edit-data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_import/aksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_import/form-import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_naskah/detail-naskah.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="126" column="58" selection-start-line="126" selection-start-column="58" selection-end-line="126" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_penulis/mod_permohonan/permohonan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1720">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_umum/mod_pemberitahuan/pemberitahuan.php" />
+    <entry file="file://$PROJECT_DIR$/modul/modul_penulis/mod_permohonan/aksi_permohonan.php" />
+    <entry file="file://$PROJECT_DIR$/config/phpmailer/docs/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fungsi_thumb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/phpmailer/class.phpmailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="341" column="18" selection-start-line="341" selection-start-column="18" selection-end-line="341" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fungsi_mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu/menu_dewan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="102" selection-start-line="17" selection-start-column="102" selection-end-line="17" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_penulis/mod_permohonan/input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_import/import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="98" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/lihat-naskah.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="237" selection-end-column="38" />
+          <folding>
+            <marker date="1464145290217" expanded="true" signature="37:85" ph="SELECT * FRO... naskah" />
+            <marker date="1464145290217" expanded="true" signature="166:216" ph="SELECT * FRO... users" />
+            <marker date="1464145290217" expanded="true" signature="955:1003" ph="SELECT * FRO... naskah" />
+            <marker date="1464145290217" expanded="true" signature="1124:1174" ph="SELECT * FRO... users" />
+            <marker date="1464145290217" expanded="true" signature="5270:5328" ph="SELECT * FRO... kategori" />
+            <marker date="1464145290217" expanded="true" signature="21328:21414" ph="SELECT * FRO... voting" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_naskah/verifikasi-naskah.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="45" column="199" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="199" />
+          <folding>
+            <marker date="1465112594456" expanded="true" signature="503:546" ph="SELECT * FRO... users" />
+            <marker date="1465112594456" expanded="true" signature="628:678" ph="SELECT * FRO... naskah" />
+            <marker date="1465112594456" expanded="true" signature="764:816" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/konten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="80" column="48" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_editor/mod_naskah/verifikasi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="313" column="0" selection-start-line="313" selection-start-column="2" selection-end-line="325" selection-end-column="7" />
+          <folding>
+            <marker date="1475336369422" expanded="true" signature="8811:8956" ph="INSERT INTO countdown... " />
+            <marker date="1475336369422" expanded="true" signature="8997:10886" ph="INSERT INTO verifikasi... " />
+            <marker date="1475336369422" expanded="true" signature="10966:11065" ph="UPDATE naska... " />
+            <marker date="1475336369422" expanded="true" signature="11146:11222" ph="SELECT * FRO... verifikasi" />
+            <marker date="1475336369422" expanded="true" signature="12151:12195" ph="SELECT * FRO... naskah" />
+            <marker date="1475336369422" expanded="true" signature="12426:12498" ph="SELECT * FRO... users" />
+            <marker date="1475336369422" expanded="true" signature="12894:13121" ph="INSERT INTO pemberitahuan... " />
+            <marker date="1475336369422" expanded="true" signature="13202:13272" ph="SELECT * FRO... users" />
+            <marker date="1475336369422" expanded="true" signature="14046:14147" ph="UPDATE naska... " />
+            <marker date="1475336369422" expanded="true" signature="14230:14306" ph="SELECT * FRO... verifikasi" />
+            <marker date="1475336369422" expanded="true" signature="15235:15279" ph="SELECT * FRO... naskah" />
+            <marker date="1475336369422" expanded="true" signature="15510:15582" ph="SELECT * FRO... users" />
+            <marker date="1475336369422" expanded="true" signature="16005:16232" ph="INSERT INTO pemberitahuan... " />
+            <marker date="1475336369422" expanded="true" signature="16311:16381" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/aksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <marker date="1464145290208" expanded="true" signature="558:636" ph="SELECT * FRO... voting" />
+            <marker date="1464145290208" expanded="true" signature="702:850" ph="INSERT INTO voting... " />
+            <marker date="1464145290208" expanded="true" signature="988:1058" ph="UPDATE votin... " />
+            <marker date="1464145290208" expanded="true" signature="1320:1471" ph="INSERT INTO countdown... " />
+            <marker date="1464145290208" expanded="true" signature="1510:1580" ph="UPDATE naska... " />
+            <marker date="1464145290208" expanded="true" signature="1660:1711" ph="SELECT * FRO... naskah" />
+            <marker date="1464145290208" expanded="true" signature="1803:1871" ph="SELECT * FRO... users" />
+            <marker date="1464145290208" expanded="true" signature="2194:2268" ph="SELECT * FRO... users" />
+            <marker date="1464145290208" expanded="true" signature="2687:2729" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_dewan/data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="63" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#label#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1475338561010" expanded="true" signature="848:963" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/detail-reviewer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="34" column="80" selection-start-line="34" selection-start-column="80" selection-end-line="34" selection-end-column="80" />
+          <folding>
+            <element signature="n#ul#0;n#!!top" expanded="false" />
+            <marker date="1475377369219" expanded="true" signature="278:331" ph="SELECT * FRO... users" />
+            <marker date="1475377369219" expanded="true" signature="399:447" ph="SELECT * FRO... naskah" />
+            <marker date="1475377369219" expanded="true" signature="520:570" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modul/modul_dewan/mod_naskah/pilih-reviewer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="166" column="151" selection-start-line="166" selection-start-column="151" selection-end-line="166" selection-end-column="151" />
+          <folding>
+            <marker date="1475395952277" expanded="true" signature="444:492" ph="SELECT * FRO... naskah" />
+            <marker date="1475395952277" expanded="true" signature="605:655" ph="SELECT * FRO... users" />
+            <marker date="1475395952277" expanded="true" signature="7898:7955" ph="SELECT * FRO... users" />
+            <marker date="1475395952277" expanded="true" signature="10908:10948" ph="SELECT * FRO... peneliti" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
